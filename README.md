@@ -54,7 +54,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Lazy-Solutions/AdvancedSceneManager?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr align:"center">
-      <td><a href="https://github.com/Lazy-Solutions/Lazys-Gameservices">Lazy's Game Services</a></td>
+      <td><a href="https://github.com/Lazy-Solutions/Lazys-Gameservices">:hammer:Lazy's Game Services</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Lazy-Solutions/Lazys-Gameservices?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
