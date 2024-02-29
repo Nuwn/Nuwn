@@ -1,9 +1,16 @@
+<div align="center";>
 <h1>Hello there 👋</h1>
+
+<br />
 
 <p>I'm Patric, a Fullstack developer / Game Developer from <b>Malmö, Sweden<b>.</b>
 <p >Check out my <a href="https://nuwn.github.io/resume"><b>Online Resume</b></a></p>
+  
+<br />
 
 <h3>Skills and tools:</h3>
+
+<br />
 
 <p>
 <img alt="unity" src="https://shields.io/badge/-unity-141414?logo=unity&style=flat-square&logoColor=white" />
@@ -27,6 +34,8 @@
 <img alt="aws" src="https://shields.io/badge/-AWS-232F3E?logo=amazonaws&style=flat-square&logoColor=white" />  
 </p>
 
+<br />
+
 <h3>I’m currently working on:<h3>
   
 <table>
@@ -48,13 +57,23 @@
   </tbody>
 </table>
 
+<br />
+
 <h3>I manage this Discord server:<h3>
 <a href="https://discord.gg/qdTuxfGWCr">
-<img alt="Discord" src="https://img.shields.io/discord/519089118467325952?style=flat-square&logo=discord&logoColor=white&label=Lazy%20Solutions&link=https%3A%2F%2Fdiscord.gg%2FqdTuxfGWCr">
+<img alt="Discord" src="https://img.shields.io/discord/519089118467325952?style=flat-square&logo=discord&logoColor=white&label=Lazy%20Solutions&link=https%3A%2F%2Fdiscord.gg%2FqdTuxfGWCr" />
 </a>
 
+<br />
+<br />
+<br />
 
+<h3>My goto music while coding.</h3>
 
+<a href="https://www.youtube.com/watch?v=WHphfTnJj90">
+<img src="https://img.youtube.com/vi/WHphfTnJj90/0.jpg"/> 
+</a>
+</div>
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
