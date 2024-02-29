@@ -5,6 +5,7 @@
 
 <p>I'm Patric, a Fullstack developer / Game Developer from <b>Malmö, Sweden<b>.</b>
 <p >Check out my <a href="https://nuwn.github.io/resume"><b>Online Resume</b></a></p>
+<p>and my org <a href="https://github.com/Lazy-Solutions">Lazy Solutions</a> </p>
   
 <br />
 
