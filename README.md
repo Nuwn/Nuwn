@@ -13,7 +13,7 @@
 <br />
 
 <p>
-<img alt="unity" src="https://shields.io/badge/-unity-141414?logo=unity&style=flat-square&logoColor=white" />
+<img alt="unity" src="https://shields.io/badge/-Unity-141414?logo=unity&style=flat-square&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="csharp" src="https://shields.io/badge/-C%23-512BD4?logo=csharp&style=flat-square&logoColor=white" />
 <img alt="dotnet" src="https://shields.io/badge/-.NET-512BD4?logo=dotnet&style=flat-square&logoColor=white" />
@@ -28,7 +28,7 @@
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="mysql" src="https://shields.io/badge/-MySQL-E48C00?logo=mysql&style=flat-square&logoColor=white" />
-<img alt="mssql" src="https://shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&style=flat-square&logoColor=white" />
+<img alt="mssql" src="https://shields.io/badge/-MsSQL-CC2927?logo=microsoftsqlserver&style=flat-square&logoColor=white" />
 <img alt="vscode" src="https://shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&style=flat-square&logoColor=white" />
 <img alt="vsstudio" src="https://shields.io/badge/-VS_Studio-5C2D91?logo=visualstudio&style=flat-square&logoColor=white" />
 <img alt="aws" src="https://shields.io/badge/-AWS-232F3E?logo=amazonaws&style=flat-square&logoColor=white" />  
