@@ -69,7 +69,7 @@
 
 <h3>I manage this Discord server:<h3>
 <a href="https://discord.gg/qdTuxfGWCr">
-<img alt="Discord" src="https://img.shields.io/discord/519089118467325952?style=flat-square&logo=discord&logoColor=white&label=Lazy%20Solutions&link=https%3A%2F%2Fdiscord.gg%2FqdTuxfGWCr" />
+<img alt="Discord" src="https://img.shields.io/discord/519089118467325952?style=for-the-badge&logo=discord&logoColor=white&label=Lazy%20Solutions&link=https%3A%2F%2Fdiscord.gg%2FqdTuxfGWCr" />
 </a>
 
 <br />
