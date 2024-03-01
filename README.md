@@ -22,15 +22,16 @@
 <img alt="php" src="https://shields.io/badge/-PHP-777BB4?logo=php&style=for-the-badge&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+<br />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<br />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="mysql" src="https://shields.io/badge/-MySQL-E48C00?logo=mysql&style=for-the-badge&logoColor=white" />
+  <br />
 <img alt="mssql" src="https://shields.io/badge/-MsSQL-CC2927?logo=microsoftsqlserver&style=for-the-badge&logoColor=white" />
 <img alt="vscode" src="https://shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&style=for-the-badge&logoColor=white" />
 <img alt="vsstudio" src="https://shields.io/badge/-VS_Studio-5C2D91?logo=visualstudio&style=for-the-badge&logoColor=white" />
