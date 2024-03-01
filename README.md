@@ -48,18 +48,18 @@
       <td>⭐ Stars</td>
     </tr>
   </thead>
-  <tbody>
-    <tr align:"center">
+  <tbody align="left">
+    <tr>
       <td><a href="https://github.com/Lazy-Solutions/AdvancedSceneManager/">Advanced Scene Manager</a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lazy-Solutions/AdvancedSceneManager?style=flat-square&labelColor=343b41"/></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Lazy-Solutions/AdvancedSceneManager?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr align:"center">
-      <td><a href="https://github.com/Lazy-Solutions/Lazys-Gameservices">:hammer:Lazy's Game Services</a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Lazy-Solutions/Lazys-Gameservices?style=flat-square&labelColor=343b41"/></td>
+    <tr>
+      <td><a href="https://github.com/Lazy-Solutions/Lazys-Gameservices">Lazy's Game Services :hammer:</a></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Lazy-Solutions/Lazys-Gameservices?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr align:"center">
-      <td><a href="https://github.com/Nuwn/LazySync">:hammer:LazySync, Database Management</a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Nuwn/LazySync?style=flat-square&labelColor=343b41"/></td>
+    <tr>
+      <td><a href="https://github.com/Nuwn/LazySync">LazySync, Database Management :hammer:</a></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Nuwn/LazySync?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
