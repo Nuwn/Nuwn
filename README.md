@@ -45,7 +45,7 @@
   <thead align="center">
     <tr border: 0;>
       <td>Projects</td>
-      <td>⭐ Stars</td>
+      <td>⭐</td>
     </tr>
   </thead>
   <tbody align="left">
