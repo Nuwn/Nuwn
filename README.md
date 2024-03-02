@@ -18,11 +18,13 @@
 <img alt="csharp" src="https://shields.io/badge/-C%23-512BD4?logo=csharp&style=for-the-badge&logoColor=white" />
 <img alt="dotnet" src="https://shields.io/badge/-.NET-512BD4?logo=dotnet&style=for-the-badge&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
+<img alt="typescript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+<img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=%23333333" />
 <img alt="php" src="https://shields.io/badge/-PHP-777BB4?logo=php&style=for-the-badge&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 <br />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
