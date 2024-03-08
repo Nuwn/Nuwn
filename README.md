@@ -60,10 +60,6 @@
       <td><a href="https://github.com/Lazy-Solutions/Lazys-Gameservices">Lazy's Game Services :hammer:</a></td>
       <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Lazy-Solutions/Lazys-Gameservices?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/Nuwn/LazySync">LazySync, Database Management :hammer:</a></td>
-      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Nuwn/LazySync?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
 
